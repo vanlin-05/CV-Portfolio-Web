@@ -53,7 +53,7 @@ ul {
 
 /*header*/
 .banner {
-    background-image: url(images/banner6.jpg);
+    background-image: url(./images/banner6.jpg);
     background-size: cover;
     width: auto;
     height: 1280px;
